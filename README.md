@@ -2,6 +2,7 @@
 
 
 
+
 I am a Data Analyst and MCA student based in Pune, Maharashtra. I am passionate about transforming complex datasets into actionable insights and building intelligent models.
 
 My goal is to leverage data to solve challenging problems and drive business decisions. I am **actively seeking internship and job opportunities** in Data Analytics and Data Science.
