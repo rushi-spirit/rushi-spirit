@@ -12,7 +12,7 @@ My goal is to leverage data to solve challenging problems and drive business dec
 ### 🌐 Socials:
 
 <p align="left">
-  <a href="https://linkedin.com/in/rushikesh-patil" target="_blank">
+  <a href="https://www.linkedin.com/in/-rushikesh-patil/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.hackerrank.com/profile/rushipatil1324" target="_blank">
