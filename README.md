@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-I don't just analyze data — I hunt for the story buried inside it.
+I don't just analyze data, I hunt for the story buried inside it.
 
-I'm **Hrushikesh Patil**, a Data Analyst and MCA student based in **Pune, Maharashtra**, on a mission to turn messy, complex datasets into decisions that actually move the needle. Whether it's building dashboards that cut decision time by 20%, boosting model accuracy, or uncovering patterns no one noticed — I bring both the technical depth and the business mindset to make it count.
+I'm **Hrushikesh Patil**, a Data Analyst and MCA student based in **Pune, Maharashtra**, on a mission to turn messy, complex datasets into decisions that actually move the needle. Whether it's building dashboards that cut decision time by 20%, boosting model accuracy, or uncovering patterns no one noticed, I bring both the technical depth and the business mindset to make it count.
 
-I'm fluent in **Python, SQL, Power BI, and Tableau**, and I thrive at the intersection of data engineering, machine learning, and visual storytelling. My work at the **Deloitte Job Simulation (Forage)** gave me real-world exposure to high-stakes analytics — and I'm hungry for more.
+I'm fluent in **Python, SQL, Power BI, and Tableau**, and I thrive at the intersection of data engineering, machine learning, and visual storytelling. My work at the **Deloitte Job Simulation (Forage)** gave me real-world exposure to high-stakes analytics, and I'm hungry for more.
 
 > 🎯 **Actively seeking Internship & Full-time opportunities in Data Analytics / Data Science.**
 
